@@ -1,0 +1,273 @@
+apiVersion: v1
+binaryData:
+  .DS_Store: QUFBQUFVSjFaREVBQUJnQUFBQUlBQUFBR0FBQUFCQUxBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFnQUFBQUlBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFDQUFBQUFBQUFBQ1FBQUFBQkFBQVFBR3huTVZOamIyMXdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRQUFBQUFBQUFnTEFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUUFBQUNBQUFBQUJBQUFBUUFBQUFBRUFBQUNBQUFBQUFRQUFBUUFBQUFBQkFBQUNBQUFBQUFFQUFBUUFBQUFBQUFBQUFBRUFBQkFBQUFBQUFRQUFJQUFBQUFBQkFBQkFBQUFBQUFFQUFJQUFBQUFBQVFBQkFBQUFBQUFCQUFJQUFBQUFBQUVBQkFBQUFBQUFBUUFJQUFBQUFBQUJBQkFBQUFBQUFBRUFJQUFBQUFBQUFRQkFBQUFBQUFBQkFJQUFBQUFBQUFFQkFBQUFBQUFBQVFJQUFBQUFBQUFCQkFBQUFBQUFBQUVJQUFBQUFBQUFBUkFBQUFBQUFBQUJJQUFBQUFBQUFBRkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUpBQUFBQVFBTGdCbkFHa0FkR3huTVZOamIyMXdBQUFBQUFBQTRiTUFBQUFFQUM0QVp3QnBBSFJ0YjBSRVlteHZZZ0FBQUFoY0RnalJQRnZIUVFBQUFBUUFMZ0JuQUdrQWRHMXZaRVJpYkc5aUFBQUFDRndPQ05FOFc4ZEJBQUFBQkFBdUFHY0FhUUIwY0dneFUyTnZiWEFBQUFBQUFBVHdBQUFBQUFVQUxnQnBBR1FBWlFCaGJHY3hVMk52YlhBQUFBQUFBQUExdFFBQUFBVUFMZ0JwQUdRQVpRQmhiVzlFUkdKc2IySUFBQUFJTVUzZUtFRmJ4MEVBQUFBRkFDNEFhUUJrQUdVQVlXMXZaRVJpYkc5aUFBQUFDREZOM2loQlc4ZEJBQUFBQlFBdUFHa0FaQUJsQUdGd2FERlRZMjl0Y0FBQUFBQUFBTEFBQUFBQUJRQXVBSFlBWlFCdUFIWnNaekZUWTI5dGNBQUFBQUFCRWpZZ0FBQUFCUUF1QUhZQVpRQnVBSFp0YjBSRVlteHZZZ0FBQUFpcXJtSDRQMXZIUVFBQUFBVUFMZ0IyQUdVQWJnQjJiVzlrUkdKc2IySUFBQUFJcXE1aCtEOWJ4MEVBQUFBRkFDNEFkZ0JsQUc0QWRuQm9NVk5qYjIxd0FBQUFBQUUxRUFBQUFBQUxBRjhBWHdCd0FIa0FZd0JoQUdNQWFBQmxBRjhBWDJ4bk1WTmpiMjF3QUFBQUFBQUFPUndBQUFBTEFGOEFYd0J3QUhrQVl3QmhBR01BYUFCbEFGOEFYMjF2UkVSaWJHOWlBQUFBQ1BWMXhYODhXOGRCQUFBQUN3QmZBRjhBY0FCNUFHTUFZUUJqQUdnQVpRQmZBRjl0YjJSRVlteHZZZ0FBQUFqMWRjVi9QRnZIUVFBQUFBc0FYd0JmQUhBQWVRQmpBR0VBWXdCb0FHVUFYd0JmY0dneFUyTnZiWEFBQUFBQUFBQndBQUFBQUFZQVl3QnZBRzRBWmdCcEFHZHNaekZUWTI5dGNBQUFBQUFBQUFFd0FBQUFCZ0JqQUc4QWJnQm1BR2tBWjIxdlJFUmliRzlpQUFBQUNNQ0h4WDg4VzhkQkFBQUFCZ0JqQUc4QWJnQm1BR2tBWjIxdlpFUmliRzlpQUFBQUNNQ0h4WDg4VzhkQkFBQUFCZ0JqQUc4QWJnQm1BR2tBWjNCb01WTmpiMjF3QUFBQUFBQUFJQUFBQUFBSkFHTUFkUUJ6QUhRQWJ3QnRBR1VBY2dCemJHY3hVMk52YlhBQUFBQUFBQUJOY0FBQUFBa0FZd0IxQUhNQWRBQnZBRzBBWlFCeUFITnRiMFJFWW14dllnQUFBQWhXbE1WL1BGdkhRUUFBQUFrQVl3QjFBSE1BZEFCdkFHMEFaUUJ5QUhOdGIyUkVZbXh2WWdBQUFBaFdsTVYvUEZ2SFFRQUFBQWtBWXdCMUFITUFkQUJ2QUcwQVpRQnlBSE53YURGVFkyOXRjQUFBQUFBQUFGQUFBQUFBQ0FCa0FHRUFkQUJoQUdJQVlRQnpBR1ZzWnpGVFkyOXRjQUFBQUFBQUFBRWxBQUFBQ0FCa0FHRUFkQUJoQUdJQVlRQnpBR1Z0YjBSRVlteHZZZ0FBQUFqY3A4Vi9QRnZIUVFBQUFBZ0FaQUJoQUhRQVlRQmlBR0VBY3dCbGJXOWtSR0pzYjJJQUFBQUkzS2ZGZnp4YngwRUFBQUFJQUdRQVlRQjBBR0VBWWdCaEFITUFaWEJvTVZOamIyMXdBQUFBQUFBQUVBQUFBQUFLQUcwQWFRQm5BSElBWVFCMEFHa0Fid0J1QUhOc1p6RlRZMjl0Y0FBQUFBQUFBQW01QUFBQUNnQnRBR2tBWndCeUFHRUFkQUJwQUc4QWJnQnpiVzlFUkdKc2IySUFBQUFJRWMzRmZ6eGJ4MEVBQUFBS0FHMEFhUUJuQUhJQVlRQjBBR2tBYndCdUFITnRiMlJFWW14dllnQUFBQWdSemNWL1BGdkhRUUFBQUFvQWJRQnBBR2NBY2dCaEFIUUFhUUJ2QUc0QWMzQm9NVk5qYjIxd0FBQUFBQUFBSUFBQUFBQUdBRzBBYndCa0FHVUFiQUJ6YkdjeFUyTnZiWEFBQUFBQUFBQUYvQUFBQUFZQWJRQnZBR1FBWlFCc0FITnRiMFJFWW14dllnQUFBQWhqM2NWL1BGdkhRUUFBQUFZQWJRQnZBR1FBWlFCc0FITnRiMlJFWW14dllnQUFBQWhqM2NWL1BGdkhRUUFBQUFZQWJRQnZBR1FBWlFCc0FITndhREZUWTI5dGNBQUFBQUFBQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBTUFBQUFBQUFBWUN3QUFBRVVBQUJBTEFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRVJGTkVRZ0FBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUlBQUFBZ0FBQUFZQUFBQUFBQUFBQUJBQUFBZ0FBQUFBRUFBQUVBQUFBQUFRQUFBZ0FBQUFBQkFBQUVBQUFBQUFFQUFBZ0FBQUFBQUFBQUFBRUFBQ0FBQUFBQUFRQUFRQUFBQUFBQkFBQ0FBQUFBQUFFQUFRQUFBQUFBQVFBQ0FBQUFBQUFCQUFRQUFBQUFBQUVBQ0FBQUFBQUFBUUFRQUFBQUFBQUJBQ0FBQUFBQUFBRUFRQUFBQUFBQUFRQ0FBQUFBQUFBQkFRQUFBQUFBQUFFQ0FBQUFBQUFBQVFRQUFBQUFBQUFCQ0FBQUFBQUFBQUVRQUFBQUFBQUFBU0FBQUFBQUFBQUJRQUFBQUFBQUFBRGR4WDg4VzhkQkFBQUFCZ0J0QUc4QVpBQmxBR3dBYzNCb01WTmpiMjF3QUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUE=
+  .gitignore: Ly80dUFHa0FaQUJsQUdFQURRQUtBQzRBZGdCbEFHNEFkZ0E9
+data:
+  README.md: "### @todo\n[x] Simple implementation of Kafka PubSub with python  \n[x] Docker compose file  \n[x] Add simple data set  \n[...] Add logging  \n[ ] Add tests  \n[ ] Add multiprocessing"
+  constants.py: |-
+    STUDENT_QUEUE='students'
+    QUEUE_URL='localhost:9092'
+  create_tables.py: "from database import engine, Base\nfrom models import Student\n\n\ndef create_tables():\n    \"\"\"Create all tables in the database\"\"\"\n    print(\"Creating tables...\")\n    Base.metadata.create_all(bind=engine)\n    print(\"Tables created successfully!\")\n\n\ndef drop_tables():\n    \"\"\"Drop all tables from the database\"\"\"\n    print(\"Dropping tables...\")\n    Base.metadata.drop_all(bind=engine)\n    print(\"Tables dropped successfully!\")\n\n# todo not working\nif __name__ == \"__main__\":\n    # Create tables\n    create_tables()\n    \n    # If you want to drop and recreate:\n    # drop_tables()\n    # create_tables()\n"
+  database.py: |-
+    from sqlalchemy import create_engine
+    from sqlalchemy.orm import declarative_base, sessionmaker
+    from config.db_config import DATABASE_URL
+
+    engine = create_engine(DATABASE_URL, echo=True)
+    SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+    Base = declarative_base()
+  database_setup_guide.sh: |
+    # 1. Install dependencies
+    pip install sqlalchemy psycopg2-binary
+
+    # 2. Make sure PostgreSQL is running
+    docker compose up -d postgres
+
+    # 3. Create the tables
+    python create_tables.py
+
+    # 4. Test the table
+    python test_student_table.py
+
+    # 5. Test CRUD operations
+    python student_repository.py
+  docker-compose.yml: |2+
+    services:
+      zookeeper:
+        image: confluentinc/cp-zookeeper:latest
+        container_name: zookeeper
+        environment:
+          ZOOKEEPER_CLIENT_PORT: 2181
+        ports:
+          - "2181:2181"
+
+      postgres:
+        image: postgres:latest
+        container_name: postgres
+        environment:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: mydb
+        ports:
+          - "5432:5432"
+        volumes:
+          - postgres_data:/var/lib/postgresql
+
+
+      rabbitmq:
+        image: rabbitmq:3-management
+        container_name: rabbitmq
+        ports:
+          - "5672:5672"   # AMQP protocol port
+          - "15672:15672" # Management interface port
+        environment:
+          RABBITMQ_DEFAULT_USER: guest
+          RABBITMQ_DEFAULT_PASS: guest
+        healthcheck:
+          test: [ "CMD", "rabbitmqctl", "status" ]
+          interval: 30s
+          timeout: 10s
+          retries: 5
+
+
+      kafka:
+        image: confluentinc/cp-kafka:latest
+        container_name: kafka
+        ports:
+          - "9092:9092"
+        environment:
+          KAFKA_NODE_ID: 1
+          KAFKA_PROCESS_ROLES: broker,controller
+          KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092,CONTROLLER://0.0.0.0:9093
+          KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092
+          KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+          KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT
+          KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka:9093
+          KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+          KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+          KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+          KAFKA_LOG_DIRS: /tmp/kraft-combined-logs
+          CLUSTER_ID: MkU3OEVBNTcwNTJENDM2Qk
+
+      pyserver:
+        image: python:3.13.5-slim
+        container_name: pyserver
+        working_dir: /app
+        volumes:
+          - .:/app
+        ports:
+          - "8000:8000"
+        depends_on:
+          - kafka
+          - postgres
+        command: python -m http.server 8000
+
+    volumes:
+      postgres_data:
+
+  git-test-not-blocking-faster.py: |
+    import time
+    from concurrent.futures import ProcessPoolExecutor
+
+    def cpu_heavy(n):
+        total = 0
+        for i in range(10_000_000):
+            total += i * n
+        return total
+
+    # Runs multiple processes in parallel
+    if __name__ == "__main__":  # ← This is crucial!
+        start = time.time()
+        with ProcessPoolExecutor(max_workers=8) as executor:
+            results = list(executor.map(cpu_heavy, [1, 2, 3, 4]))
+        print(f"Processes took {time.time() - start:.2f} seconds")
+  google_cloud_function.py: |-
+    # Pub/Sub-style CloudEvent function (v2/Eventarc)
+    import functions_framework
+
+    @functions_framework.cloud_event
+    def on_pubsub(event):
+        data = event.data.get("message", {}).get("data")
+        print(f"Got Pub/Sub message (base64): {data}")
+  kafka_consumer.py: "from kafka import KafkaConsumer\nimport json\nfrom constants import STUDENT_QUEUE, QUEUE_URL\nfrom multiprocessing import Pool, cpu_count\nimport signal\nimport sys\n\n\nclass KafkaMessageConsumer:\n    def __init__(self, num_workers=None):\n        self.consumer = None\n        self.pool = None\n        self.num_workers = num_workers or cpu_count()\n\n    def initialize_consumer(self):\n        self.consumer = KafkaConsumer(\n            STUDENT_QUEUE,\n            bootstrap_servers=[QUEUE_URL],\n            auto_offset_reset='earliest',  \n            enable_auto_commit=True,\n            group_id='my-consumer-group',\n            value_deserializer=lambda m: json.loads(m.decode('utf-8'))\n        )\n        # Initialize process pool\n        self.pool = Pool(processes=self.num_workers)\n\n    @staticmethod\n    def process_message(message_data):\n        \"\"\"Static method to process message - must be picklable\"\"\"\n        topic, partition, offset, key, value = message_data\n        print(f\"Topic: {topic}\")\n        print(f\"Partition: {partition}\")\n        print(f\"Offset: {offset}\")\n        print(f\"Key: {key}\")\n        print(f\"Value: {value}\")\n        print(\"-\" * 50)\n        # Add your processing logic here\n        return f\"Processed message at offset {offset}\"\n\n    def start_consuming(self):\n        print(f\"Starting consumer with {self.num_workers} workers...\")\n        try:\n            for message in self.consumer:\n                # Extract message data as tuple\n                message_data = (\n                    message.topic,\n                    message.partition,\n                    message.offset,\n                    message.key,\n                    message.value\n                )\n                # Submit to process pool (async)\n                self.pool.apply_async(\n                    self.process_message,\n                    args=(message_data,),\n                    error_callback=lambda e: print(f\"Error: {e}\")\n                )\n        except KeyboardInterrupt:\n            print(\"\\nConsumer stopped\")\n        finally:\n            self.close()\n\n    def close(self):\n        if self.pool:\n            self.pool.close()\n            self.pool.join()\n        if self.consumer:\n            self.consumer.close()\n\n\nif __name__ == \"__main__\":\n    consumer = KafkaMessageConsumer(num_workers=4)\n    consumer.initialize_consumer()\n    consumer.start_consuming()\n"
+  kafka_producer.py: |-
+    from kafka import KafkaProducer
+    import json
+    import time
+
+    producer = KafkaProducer(
+        bootstrap_servers=['localhost:9092'],
+        value_serializer=lambda v: json.dumps(v).encode('utf-8')
+    )
+
+    def send_message(topic, message):
+        try:
+            future = producer.send(topic, message)
+            record_metadata = future.get(timeout=10)
+            print(f"Message sent to {record_metadata.topic} partition {record_metadata.partition} offset {record_metadata.offset}")
+        except Exception as e:
+            print(f"Error sending message: {e}")
+
+    if __name__ == "__main__":
+        for i in range(10):
+            message = {
+                'id': i,
+                'timestamp': time.time(),
+                'data': f'Message {i}'
+            }
+            send_message('students', message)
+        producer.close()
+  logfactory.py: |-
+    import structlog
+    import logging
+    import sys
+
+    def configure_logging(use_json: bool = True):
+        logging.basicConfig(
+            format="%(message)s",
+            stream=sys.stdout,
+            level=logging.INFO,
+        )
+
+        if use_json:
+            renderer = structlog.processors.JSONRenderer()
+        else:
+            renderer = structlog.dev.ConsoleRenderer(colors=True)
+
+        structlog.configure(
+            processors=[
+                structlog.stdlib.add_log_level,
+                structlog.processors.TimeStamper(fmt="iso"),
+                structlog.stdlib.add_logger_name,
+                structlog.processors.StackInfoRenderer(),
+                structlog.processors.format_exc_info,
+                structlog.stdlib.ProcessorFormatter.wrap_for_formatter,
+                renderer,
+            ],
+            wrapper_class=structlog.stdlib.BoundLogger,
+            context_class=dict,
+            logger_factory=structlog.stdlib.LoggerFactory(),
+            cache_logger_on_first_use=True,
+        )
+
+    def get_logger(name: str = None):
+        """Get a configured logger instance"""
+        return structlog.get_logger(name)
+  models.py: |-
+    # models.py
+    from sqlalchemy import Column, Integer, String, DateTime, Float, Boolean
+    from sqlalchemy.sql import func
+    from database import Base
+
+
+    class Student(Base):
+        __tablename__ = "students"
+
+        # Primary key
+        id = Column(Integer, primary_key=True, index=True, autoincrement=True)
+
+        # Student information
+        first_name = Column(String(100), nullable=False)
+        last_name = Column(String(100), nullable=False)
+        email = Column(String(255), unique=True, index=True, nullable=False)
+        age = Column(Integer)
+        grade = Column(Float)
+        phone = Column(String(20))
+        address = Column(String(500))
+        is_active = Column(Boolean, default=True)
+
+        # Timestamps
+        created_at = Column(DateTime(timezone=True), server_default=func.now())
+        updated_at = Column(DateTime(timezone=True), onupdate=func.now())
+
+        def __repr__(self):
+            return f"<Student(id={self.id}, name='{self.first_name} {self.last_name}', email='{self.email}')>"
+
+        def to_dict(self):
+            """Convert model to dictionary"""
+            return {
+                'id': self.id,
+                'first_name': self.first_name,
+                'last_name': self.last_name,
+                'email': self.email,
+                'age': self.age,
+                'grade': self.grade,
+                'phone': self.phone,
+                'address': self.address,
+                'is_active': self.is_active,
+                'created_at': self.created_at.isoformat() if self.created_at else None,
+                'updated_at': self.updated_at.isoformat() if self.updated_at else None
+            }
+  multi_processing.py: |
+    import time
+    from concurrent.futures import ProcessPoolExecutor
+
+    # Runs multiple processes in parallel
+    if __name__ == "__main__":  # ← This is crucial!
+        start = time.time()
+        with ProcessPoolExecutor(max_workers=8) as executor:
+            results = list(executor.map(cpu_heavy, [1, 2, 3, 4]))
+        print(f"Processes took {time.time() - start:.2f} seconds")
+  requirements.txt: |
+    functions-framework==3.*
+  student_data_processing.py: "import json\nfrom logfactory import get_logger\nfrom constants import STUDENT_QUEUE\nfrom kafka_producer import send_message\nfrom student_repository import StudentRepository\n\nlogger = get_logger()\nrepo = StudentRepository()\n\nwith open('customers/asdf1234/students.jsonl', 'r') as students_file:\n    for line in students_file:\n        student_data = json.loads(line)\n        \n        # Save to database\n        student = repo.create_student(student_data)\n        \n        if student:\n            logger.info(f\"{student.first_name} saved to database and sent to queue\")\n            # Send to Kafka queue\n            send_message(STUDENT_QUEUE, student.to_dict())\n        else:\n            logger.error(f\"Failed to save student: {student_data.get('first_name')}\")\n"
+  student_importer.py: |
+    import json
+    from logfactory import get_logger
+
+    from constants import STUDENT_QUEUE
+    from kafka_producer import send_message
+
+    logger = get_logger()
+    with open('customers/asdf1234/students.jsonl', 'r') as students_file:
+        for line in students_file:
+            student = json.loads(line)
+            logger.info(student['first_name'] + ' sent to the queue')
+            send_message(STUDENT_QUEUE, student)
+  student_repository.py: "# student_repository.py\nfrom sqlalchemy.orm import Session\nfrom sqlalchemy.exc import SQLAlchemyError\nfrom database import SessionLocal\nfrom models import Student\nfrom typing import List, Optional\n\n\nclass StudentRepository:\n    \"\"\"Repository for Student CRUD operations\"\"\"\n    \n    @staticmethod\n    def create_student(student_data: dict) -> Optional[Student]:\n        \"\"\"Create a new student\"\"\"\n        db = SessionLocal()\n        try:\n            student = Student(**student_data)\n            db.add(student)\n            db.commit()\n            db.refresh(student)\n            print(f\"Created student: {student}\")\n            return student\n        except SQLAlchemyError as e:\n            db.rollback()\n            print(f\"Error creating student: {e}\")\n            return None\n        finally:\n            db.close()\n    \n    @staticmethod\n    def get_student_by_id(student_id: int) -> Optional[Student]:\n        \"\"\"Get a student by ID\"\"\"\n        db = SessionLocal()\n        try:\n            return db.query(Student).filter(Student.id == student_id).first()\n        finally:\n            db.close()\n    \n    @staticmethod\n    def get_student_by_email(email: str) -> Optional[Student]:\n        \"\"\"Get a student by email\"\"\"\n        db = SessionLocal()\n        try:\n            return db.query(Student).filter(Student.email == email).first()\n        finally:\n            db.close()\n    \n    @staticmethod\n    def get_all_students(skip: int = 0, limit: int = 100) -> List[Student]:\n        \"\"\"Get all students with pagination\"\"\"\n        db = SessionLocal()\n        try:\n            return db.query(Student).offset(skip).limit(limit).all()\n        finally:\n            db.close()\n    \n    @staticmethod\n    def update_student(student_id: int, update_data: dict) -> Optional[Student]:\n        \"\"\"Update a student\"\"\"\n        db = SessionLocal()\n        try:\n            student = db.query(Student).filter(Student.id == student_id).first()\n            if student:\n                for key, value in update_data.items():\n                    if hasattr(student, key):\n                        setattr(student, key, value)\n                db.commit()\n                db.refresh(student)\n                print(f\"Updated student: {student}\")\n                return student\n            return None\n        except SQLAlchemyError as e:\n            db.rollback()\n            print(f\"Error updating student: {e}\")\n            return None\n        finally:\n            db.close()\n    \n    @staticmethod\n    def delete_student(student_id: int) -> bool:\n        \"\"\"Delete a student\"\"\"\n        db = SessionLocal()\n        try:\n            student = db.query(Student).filter(Student.id == student_id).first()\n            if student:\n                db.delete(student)\n                db.commit()\n                print(f\"Deleted student ID: {student_id}\")\n                return True\n            return False\n        except SQLAlchemyError as e:\n            db.rollback()\n            print(f\"Error deleting student: {e}\")\n            return False\n        finally:\n            db.close()\n    \n    @staticmethod\n    def bulk_create_students(students_data: List[dict]) -> bool:\n        \"\"\"Bulk create students\"\"\"\n        db = SessionLocal()\n        try:\n            students = [Student(**data) for data in students_data]\n            db.bulk_save_objects(students)\n            db.commit()\n            print(f\"Bulk created {len(students)} students\")\n            return True\n        except SQLAlchemyError as e:\n            db.rollback()\n            print(f\"Error bulk creating students: {e}\")\n            return False\n        finally:\n            db.close()\n\n\n# Example usage\nif __name__ == \"__main__\":\n    repo = StudentRepository()\n    \n    # Create a student\n    student_data = {\n        \"first_name\": \"John\",\n        \"last_name\": \"Doe\",\n        \"email\": \"john.doe@example.com\",\n        \"age\": 20,\n        \"grade\": 3.8,\n        \"phone\": \"+1234567890\"\n    }\n    \n    student = repo.create_student(student_data)\n    \n    if student:\n        print(f\"Created student with ID: {student.id}\")\n        \n        # Get the student\n        retrieved = repo.get_student_by_id(student.id)\n        print(f\"Retrieved: {retrieved}\")\n        \n        # Update the student\n        updated = repo.update_student(student.id, {\"grade\": 3.9})\n        print(f\"Updated: {updated}\")\n        \n        # Get all students\n        all_students = repo.get_all_students()\n        print(f\"Total students: {len(all_students)}\")"
+  trellis.md: ""
+kind: ConfigMap
+metadata:
+  labels:
+    io.kompose.service: pyserver
+  name: pyserver-cm0
